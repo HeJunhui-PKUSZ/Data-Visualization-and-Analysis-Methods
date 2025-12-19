@@ -1,34 +1,38 @@
-site_name: Meaterse Readthedocs
-repo_url: https://github.com/zhaorui-bi/Metaverse
+site_name: Data Visualization and Analysis Methods
+repo_url: https://github.com/PKU-EMBL/Data-Visualization-and-Analysis-Methods
 site_author: "Zhaorui Jiang"
-copyright: "Copyright &copy; 2022-2023, 112 Lab, USTB"
+copyright: "Copyright &copy; PKU EMBL Lab 2025"
 
 nav:
   - Index: index.md
-  - Installation: Installation_guild.md
-  - Tutorial:
-      - Bulk:
-          - ATAC-seq visualization: Tutorials-bulk/t_bulk_visualize.ipynb
-      - Single:
-          - Preprocessing the data of scATAC-seq: Tutorials-single/t_preprocess.ipynb
-          - Data integration: Tutorials-single/t_single_concat.ipynb
-          - Find the genes related regions: Tutorials-single/t_findgenes.ipynb
-          - Calculating the gene activity matrix of scATAC-seq: Tutorials-single/t_gene_activity.ipynb
-          - Pseudobulk visualization: Tutorials-single/t_pseudobulk_visual.ipynb
-
-  - API documentation: api/index.md
+  - Prerequisites: Prerequisites_guild.md
+  # - Tutorial:
+  #     - Bulk:
+  #         - ATAC-seq visualization: Tutorials-bulk/t_bulk_visualize.ipynb
+  #     - Single:
+  #         - Preprocessing the data of scATAC-seq: Tutorials-single/t_preprocess.ipynb
+  #         - Data integration: Tutorials-single/t_single_concat.ipynb
+  #         - Find the genes related regions: Tutorials-single/t_findgenes.ipynb
+  #         - Calculating the gene activity matrix of scATAC-seq: Tutorials-single/t_gene_activity.ipynb
+  #         - Pseudobulk visualization: Tutorials-single/t_pseudobulk_visual.ipynb
+  - Lecture: lecture/lecture1.md
+      # - Lecture1: Lecture1: lecture/lecture1.md
+      # - Lecture2: Lecture2: lecture/lecture2.md
+      # - Lecture3: Lecture3: lecture/lecture3.md
+  # - Reference:
+  # - API documentation: api/index.md
   - Release notes: Release_notes.md
-  - Developer guild: Developer_guild.md
+  # - Developer guild: Developer_guild.md
 
 plugins:
   - mkdocs-jupyter
   - glightbox
-  - gen-files:
-      scripts:
-        - docs/gen_ref_pages.py
+  # - gen-files:
+  #     scripts:
+  #       - docs/gen_ref_pages.py
   - mkdocstrings:
       enabled: !ENV [ENABLE_MKDOCSTRINGS, true]
-      custom_templates: templates
+      # custom_templates: templates
       default_handler: python
       handlers:
         python:
