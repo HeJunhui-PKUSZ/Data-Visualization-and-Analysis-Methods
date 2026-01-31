@@ -38,7 +38,7 @@ G4:
 
 G5: 秸秆资源化利用方式生命周期碳减排效果评价：https://github.com/lighear/Group5-LCA-of-Carbon-Reduction-Evaluation-Analysis-main —— 李筱，童卓琳，李昊
 
-G6: Group 6 Final Project: https://github.com/WHUEugene/Group6-DVAM-Final-Project —— Group 6
+G6: Group 6 Final Project: https://github.com/WHUEugene/Group6-DVAM-Final-Project —— 刘含章, 林阳杰, 申领东
 
 G7: 冻层湖泊中甲烷排放的温度依赖性研究：https://github.com/FAIRY123456789/Data-Visualization-and-Analysis-Methods/tree/G7 —— 苏治平，符育，张一腾
 
