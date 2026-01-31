@@ -44,7 +44,7 @@ G7: 冻层湖泊中甲烷排放的温度依赖性研究：https://github.com/FAI
 
 G8: 小鼠蛋白质相互作用网络可视化分析项目：https://github.com/Cheliosoops/DVAM_G8 —— 徐永祺，刘祥瑞，赵张欣悦
 
-G9: MOF材料的CO2吸附与自身结构特征、元素组成的相关性分析：https://github.com/WXQ-bot/Data-Visualization-and-Analysis-Methods —— 吴晓倩，古思莹，杨晨，白亚冉
+G9: MOF材料的CO2吸附与自身结构特征、元素组成的相关性分析：https://github.com/WXQ-bot/DVAM-Group-9-Final-Project —— 吴晓倩，古思莹，杨晨，白亚冉
 
 G10: City Air Quality Analytics Dashboard: [GitHub Link](https://github.com/Suki219/Group10-City-Air-Quality-Analytics-Dashboard) —— 陈静婷，黄宝仪，雷涵越
 
