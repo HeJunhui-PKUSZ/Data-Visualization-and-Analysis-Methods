@@ -75,10 +75,9 @@ G18: 识别、量化与比较交通边界对即时配送的阻碍效应——以
 @misc{PKU-EMBL_DataVis,
   author       = {{PKU-EMBL}},
   title        = {Data Visualization and Analysis Methods},
-  year         = {2024},
+  year         = {2026},
   publisher    = {GitHub},
   journal      = {GitHub repository},
   howpublished = {\url{https://github.com/PKU-EMBL/Data-Visualization-and-Analysis-Methods}},
-  note         = {Accessed: 2024-05-20}
 }
 ```
