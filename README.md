@@ -2,8 +2,7 @@
 
 ## 📣 News
 
-* **[2026/01/31]**: 🤗 DVAM Students Group Projects of Fall 2025-2026 Semester have released!
-* **[2025/12/29]**: 🤗 We released **Course Data-Visualization-and-Analysis-Methods Community**.
+* **[2025/12/29]**: 🤗 We release **Course Data-Visualization-and-Analysis-Methods Community**.
 
 ## 📅 Requirements
 
@@ -35,7 +34,7 @@ G2: Beijing AirQuality Visualization and Forecast Platform:https://github.com/1l
 
 G3: 深港水环境耐药细菌的分布特征及其对理化因子的响应机制：https://github.com/kathy20031004-a11y/G3-Visualization-and-Analysis-Methods —— 朱慧芬，程淋，孔子希
 
-G4: 
+G4: 雨水利用管理系统 (Rainwater Harvest OS)：https://github.com/LZX-creat/Group04-Rain-Efficiency-Analysis.git  —— 刘正星，王伟光，冯贤彬
 
 G5: 秸秆资源化利用方式生命周期碳减排效果评价：https://github.com/lighear/Group5-LCA-of-Carbon-Reduction-Evaluation-Analysis-main —— 李筱，童卓琳，李昊
 
