@@ -2,7 +2,7 @@
 
 ## 📣 News
 
-* **[2026/01/31]**: 🤗 **Course Data-Visualization-and-Analysis-Methods Community** Students Group Projects For Fall 2025-2026 Semester have released!
+* **[2026/01/31]**: 🤗 DVAM Students Group Projects of Fall 2025-2026 Semester have released!
 * **[2025/12/29]**: 🤗 We released **Course Data-Visualization-and-Analysis-Methods Community**.
 
 ## 📅 Requirements
